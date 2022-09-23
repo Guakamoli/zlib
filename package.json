@@ -1,12 +1,12 @@
 {
   "name": "browserify-zlib",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Full zlib module for the browser",
   "keywords": [
     "zlib",
     "browserify"
   ],
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
